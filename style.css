@@ -10,3 +10,11 @@ Tags: perfomance
 
 This theme is licensed under the personal license.
 */
+
+.card {
+    margin: 30px 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
